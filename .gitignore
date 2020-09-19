@@ -1,0 +1,12 @@
+.metadata
+firestore/private-key.json
+firestore/target/
+firestore/.settings/
+
+receiver/service-account.json
+receiver/target/
+receiver/.settings/
+
+sender/service-account.json
+sender/target/
+sender/.settings/

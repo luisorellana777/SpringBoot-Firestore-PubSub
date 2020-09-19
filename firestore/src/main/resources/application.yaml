@@ -1,0 +1,11 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: firestore
+  cloud:
+    gcp:
+      project-id: nimble-net-289114
+      credentials:
+        location: file:private-key.json
