@@ -2,11 +2,20 @@
 firestore/private-key.json
 firestore/target/
 firestore/.settings/
+firestore/.classpath
+firestore/.project
+firestore/.springBeans
 
 receiver/service-account.json
 receiver/target/
 receiver/.settings/
+receiver/.classpath
+receiver/.project
+receiver/.springBeans
 
 sender/service-account.json
 sender/target/
 sender/.settings/
+sender/.classpath
+sender/.project
+sender/.springBeans
