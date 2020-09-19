@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: pubsub-sender
+  cloud:
+    gcp:
+      project-id: nimble-net-289114
+      credentials:
+        location: file:service-account.json

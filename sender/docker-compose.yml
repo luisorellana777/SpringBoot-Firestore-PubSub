@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+  pubsub-sender:
+    image: luisorellanaa/pubsub-sender:0.0.1-SNAPSHOT
+    ports:
+      - "8081:8081"
+    restart: always
